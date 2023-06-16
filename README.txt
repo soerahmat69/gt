@@ -1,4 +1,3 @@
-Thanks for downloading Lucifer.
-App made by Nuron.
-Website Front-End made by Wild.
-Website Back-End made by Bolwl.
+Before using Lucifer, make sure you have installed visual studio redistributables
+x64: https://aka.ms/vs/17/release/vc_redist.x64.exe
+x86: https://aka.ms/vs/17/release/vc_redist.x86.exe
